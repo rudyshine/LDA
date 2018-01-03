@@ -2,80 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7af99b2f-d2e3-498f-88bf-922f0d64f473" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/.idea/STUDY.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/Analysis/.idea/Analysis.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/Analysis/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/Analysis/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/Analysis/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/Analysis/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/Analysis/data_analysis.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/Analysis/nlp_str.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/PythonAnalysis/.idea/PythonAnalysis.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/PythonAnalysis/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/PythonAnalysis/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/PythonAnalysis/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/PythonAnalysis/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/PythonAnalysis/4521778jd_table.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/PythonAnalysis/Elda.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/PythonAnalysis/HillaryEmails.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/PythonAnalysis/TextJieba.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/PythonAnalysis/TextPandas.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/PythonAnalysis/chineseLDA.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/PythonAnalysis/cu.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/PythonAnalysis/jd_lda.model" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/PythonAnalysis/jd_lda.model.expElogbeta.npy" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/PythonAnalysis/jd_lda.model.id2word" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/PythonAnalysis/jd_lda.model.state" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/PythonAnalysis/ladtest.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/PythonAnalysis/meidi_jd_neg_cut.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/PythonAnalysis/meidi_jd_pos_cut.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/PythonAnalysis/pythonLDA.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/PythonAnalysis/qqq.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/PythonAnalysis/stoplist.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/PythonAnalysis/stopwords.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/PythonAnalysis/test.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/PythonAnalysis/testGibbsLDA.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/PythonAnalysis/testNLTK.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/PythonAnalysis/xplda.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/PythonAnalysis/格力凉之静.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/study2/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/study2/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/study2/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/study2/.idea/study2.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/study2/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/study2/testnltk.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/testcrawl/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/testcrawl/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/testcrawl/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/testcrawl/.idea/testcrawl.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/testcrawl/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/testcrawl/en.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/testcrawl/jd.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/testcrawl/testcrawl.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/testcrawl/testcrawl1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/testcrawl/testcrawl2.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/testcrawl/testdata/jd_table.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/testcrawl/testdata/jd_table1.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/testcrawl/testdata/jd_table2.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/testcrawl/testdata/jd_table22.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/testcrawl/testdata/jd_table_test.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/testcrawl/testdata/page.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/testcrawl/testdata/page1.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/testcrawl/testgetmaxpage.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/testcrawl/webcheck.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/testcrawl/表头.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../STUDY/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/../JD/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../JD/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/../JD/daybyday/JDSpider_F/JDSpider_F/spiders/JD_Spider.py" afterPath="$PROJECT_DIR$/../JD/daybyday/JDSpider_F/JDSpider_F/spiders/JD_Spider.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/../RESTFUL/.idea/RESTFUL.iml" afterPath="$PROJECT_DIR$/../RESTFUL/.idea/RESTFUL.iml" />
       <change beforePath="$PROJECT_DIR$/../RESTFUL/.idea/misc.xml" afterPath="$PROJECT_DIR$/../RESTFUL/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/../RESTFUL/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../RESTFUL/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../bklogin" afterPath="$PROJECT_DIR$/../bklogin" />
-      <change beforePath="$PROJECT_DIR$/../login/.idea/vcs.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../login/.idea/workspace.xml" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -140,7 +72,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -152,6 +83,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -345,17 +277,16 @@
   <component name="ToolWindowManager">
     <frame x="1920" y="0" width="1920" height="1080" extended-state="6" />
     <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17433155" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3304813" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17219251" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3315508" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -363,6 +294,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -379,6 +311,16 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/chines_LDA/demo_lda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#43#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chines_LDA/demo_lda.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
